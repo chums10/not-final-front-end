@@ -55,7 +55,7 @@ const Navbar = () => {
       <button className="bg-gradient-to-b from-[#fff] to-[#e1e1e1] hover:from-white hover:to-white text-gray-800 px-2 md:px-3 h-6 rounded border border-gray-400 text-[10px] md:text-xs font-bold shadow-sm active:shadow-inner whitespace-nowrap">
         Search
       </button>
-    </div>
+    </div>  
 
         </div>
       </div>

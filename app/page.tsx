@@ -9,7 +9,7 @@ export default function Home() {
       <div className="w-full max-w-7xl mx-auto px-4 py-12 flex flex-col md:flex-row items-center md:items-start justify-center gap-12 lg:gap-40">
         
         {/* Left Side: Large Logo */}
-        <div className="w-full max-w-[300px] md:max-w-[300px] flex-shrink-1">
+        <div className="w-full max-w-[300px] md:max-w-[300px] flex-shrink-1 hidden md:block">
           <Image 
             src="/logo.png" 
             alt="AO3 Logo" 
